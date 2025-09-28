@@ -1,5 +1,6 @@
 # expenses-prediction
 # 家計支出予測アプリ
+https://expenses-prediction-mu69tdmauywmfw7pyigm6f.streamlit.app/
 
 ## 📌 プロジェクト概要
 このアプリは家計簿データをもとに支出を可視化し、AI（線形回帰モデル）で未来の支出を予測する仕組みを実装しています。
